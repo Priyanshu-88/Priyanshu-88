@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyanshu Kumar Singh</h1>
+<h3 align="center">As an undergraduate software engineer, my passion lies in the dynamic realms of web and backend development. Fueled by curiosity and a drive to make a tangible impact, I thrive on challenges, constantly seeking opportunities to learn and grow. With a solid foundation in software engineering principles, I am eager to specialize in crafting seamless user experiences and architecting scalable systems. I believe in the power of collaboration and open-source communities, recognizing the value of diverse perspectives and collective knowledge. Through continuous learning and collaboration, I aim to contribute to meaningful projects that address real-world problems and inspire positive change. Driven by a vision of a connected and empowered future, I am excited to shape the digital landscape with creativity, passion, and purpose.</h3>
 
-<!--
-**Priyanshu-88/Priyanshu-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-88&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-88" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-88" alt="priyanshu-88" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **C++ and HTML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-88](https://github.com/Priyanshu-88)
+
+- 💬 Ask me about **C & C++**
+
+- 📫 How to reach me **priyanshusingh3473@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-kumar-singh-975492289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-kumar-singh-975492289/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.priyanshu._08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.priyanshu._08" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
