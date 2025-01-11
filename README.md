@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Singh</h1>
 <h3 align="center">As an undergraduate software engineer, my passion lies in the dynamic realms of web and backend development. Fueled by curiosity and a drive to make a tangible impact, I thrive on challenges, constantly seeking opportunities to learn and grow. With a solid foundation in software engineering principles, I am eager to specialize in crafting seamless user experiences and architecting scalable systems. I believe in the power of collaboration and open-source communities, recognizing the value of diverse perspectives and collective knowledge. Through continuous learning and collaboration, I aim to contribute to meaningful projects that address real-world problems and inspire positive change. Driven by a vision of a connected and empowered future, I am excited to shape the digital landscape with creativity, passion, and purpose.</h3>
 
-- 🌱 I’m currently learning **C++ and HTML**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-88](https://github.com/Priyanshu-88)
 
