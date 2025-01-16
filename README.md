@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="center">Here's a little animation of me coding 💻:</h3>
+<h3 align="center">Here's an animation of a person coding 💻:</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/l4Ep9CJGxdhYIrcJy/giphy.gif" alt="person coding animation" width="400" height="auto"/>
 </p>
