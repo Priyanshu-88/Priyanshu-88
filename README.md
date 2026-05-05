@@ -30,7 +30,7 @@ const priyanshu = {
   role:       "Undergraduate Software Engineer",
   focus:      ["DSA", "Web Development", "Database Design"],
   languages:  ["C", "C++", "JavaScript", "HTML", "CSS", "SQL"],
-  learning:   "JavaScript async, Data Structures and Algorithm",
+  learning:   "JavaScript (ES6+, async/await, DOM)",
   askMeAbout: ["Data Structures", "Algorithms", "C/C++", "MySQL", "Web Dev"],
   contact:    "priyanshusingh3473@gmail.com",
   motto:      "Code with purpose. Build with passion. 🚀"
@@ -43,8 +43,7 @@ const priyanshu = {
 
 <table>
   <tr>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### 🌐 Web Development
 - Semantic HTML5 structure
@@ -54,9 +53,7 @@ const priyanshu = {
 - Building projects from scratch
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### 🗄️ Database & SQL
 - Relational database design
@@ -66,7 +63,17 @@ const priyanshu = {
 - Schema design & normalization
 
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔌 REST API & JWT
+- Designing RESTful endpoints
+- HTTP methods — GET, POST, PUT, DELETE
+- JWT-based authentication & authorization
+- Token generation, signing & verification
+- Securing routes with middleware
+
   </tr>
 </table>
 
