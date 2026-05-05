@@ -30,7 +30,7 @@ const priyanshu = {
   role:       "Undergraduate Software Engineer",
   focus:      ["DSA", "Web Development", "Database Design"],
   languages:  ["C", "C++", "JavaScript", "HTML", "CSS", "SQL"],
-  learning:   "JavaScript (ES6+, async/await, DOM)",
+  learning:   "JavaScript async, Data Structures and Algorithm",
   askMeAbout: ["Data Structures", "Algorithms", "C/C++", "MySQL", "Web Dev"],
   contact:    "priyanshusingh3473@gmail.com",
   motto:      "Code with purpose. Build with passion. 🚀"
@@ -43,15 +43,6 @@ const priyanshu = {
 
 <table>
   <tr>
-    <td width="50%">
-
-### 🧠 DSA & Problem Solving
-- Arrays, Strings, Linked Lists
-- Stacks, Queues, Trees, Graphs
-- Sorting & Searching Algorithms
-- Dynamic Programming basics
-- Competitive programming practice
-
     </td>
     <td width="50%">
 
@@ -76,15 +67,6 @@ const priyanshu = {
 
     </td>
     <td width="50%">
-
-### ⚙️ Systems Programming
-- Memory management in C/C++
-- Pointers & references
-- Object-Oriented Programming
-- STL — vectors, maps, sets
-- File I/O operations
-
-    </td>
   </tr>
 </table>
 
