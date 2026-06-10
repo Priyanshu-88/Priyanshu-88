@@ -68,7 +68,7 @@ const priyanshu = {
 ### 🔌 REST API & JWT
 - Designing RESTful endpoints
 - HTTP methods — GET, POST, PUT, DELETE
-- **JWT**-based authentication & authorization
+- **JWT**-based auth & authorization
 - Token generation, signing & verification
 - Securing routes with middleware
 
@@ -113,7 +113,7 @@ const priyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-88&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
 
@@ -121,14 +121,6 @@ const priyanshu = {
 
 <img src="https://streak-stats.demolab.com/?user=Priyanshu-88&theme=tokyonight&hide_border=true" height="170" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-88&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -146,7 +138,7 @@ const priyanshu = {
 ```
 📌 Master JavaScript (ES6+, async/await, Promises)
 📌 Build 3+ full-stack projects this year
-📌 Strengthen DSA — solve 200+ problems on LeetCode/GFG
+📌 Strengthen DSA — solve 200+ problems on LeetCode / GFG
 📌 Learn Node.js + Express.js
 📌 Contribute to open source
 ```
@@ -171,12 +163,6 @@ const priyanshu = {
   <a href="https://github.com/Priyanshu-88">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
